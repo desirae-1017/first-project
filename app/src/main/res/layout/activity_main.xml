@@ -20,6 +20,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginLeft="77dp"
         android:layout_marginStart="77dp"
+        android:fontFamily="@font/dancingscript_bold"
         android:text="Happy"
         android:textColor="#6A1B9A"
         android:textSize="42sp" />
